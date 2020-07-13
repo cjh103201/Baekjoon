@@ -1,4 +1,4 @@
-package baekjoon_sol;
+package baekjoon_sol.done;
 
 import java.util.Scanner;
 
